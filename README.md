@@ -1,5 +1,7 @@
 # JapanMapColoring
-データに基づいて日本地図を着色  
+データに基づいて日本地図を着色 
+
+![map_color.png](map_color.png)  
 
 ## 解析環境
 - R 3.6.1 on Windows 10 (64-bit)
